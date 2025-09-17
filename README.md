@@ -55,7 +55,7 @@ It incorporates **OOP concepts** like encapsulation and inheritance to separate 
 ## 📸 Screenshots
 
 **Login Form**  
-![Login Form](Screenshots/login.png)  
+![Login Form](Screenshots/Login.png)  
 
 **Manager Dashboard**  
 ![Manager Dashboard](Screenshots/ManagerDashboard.png)  
