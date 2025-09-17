@@ -55,20 +55,20 @@ It incorporates **OOP concepts** like encapsulation and inheritance to separate 
 ## 📸 Screenshots
 
 **Login Form**  
-![Login Form](screenshots/login.png)  
+![Login Form](Screenshots/login.png)  
 
 **Manager Dashboard**  
-![Manager Dashboard](screenshots/managerdashboard.png)  
+![Manager Dashboard](Screenshots/ManagerDashboard.png)  
 
 **Cashier Dashboard**  
-![Cashier Dashboard](screenshots/cashierdashboard.png)  
+![Cashier Dashboard](Screenshots/CashierDashboard.png)  
 
 **Patient Management**  
-![Patient Management](screenshots/patientmanagement.png)  
+![Patient Management](Screenshots/PatientManagement.png)  
 
 **User Management**  
-![User Management](screenshots/usermanagement.png)
+![User Management](Screenshots/UserManagement.png)
 
 **Consultant Search**  
-![Consultant Search](screenshots/consultantsearch.png)
+![Consultant Search](Screenshots/ConsultantSearch.png)
 
